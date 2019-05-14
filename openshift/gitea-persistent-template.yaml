@@ -365,5 +365,5 @@ parameters:
 - name: GITEA_VERSION
   displayName: Gogs Image Version Tag
   description: The tag for the Gogs Image to use
-  value: "1.8.0"
+  value: "1.7.5"
   required: true

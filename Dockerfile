@@ -2,7 +2,7 @@ FROM docker.io/centos:7
 
 # Set the Gitea Version to install.
 # Check https://dl.gitea.io/gitea/ for available versions.
-ENV GITEA_VERSION="1.8.0"
+ENV GITEA_VERSION="1.7.5"
 ENV APP_HOME=/home/gitea
 ENV REPO_HOME=/gitea-repositories
 
